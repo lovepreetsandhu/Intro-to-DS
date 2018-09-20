@@ -1,1 +1,1 @@
-# Linear Regression Projects
+# Data Science Projects
