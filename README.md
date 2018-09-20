@@ -1,2 +1,1 @@
-# Intro-to-DS
-Regression Projects
+# Linear Regression Projects
